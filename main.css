@@ -1,4 +1,14 @@
 body {
     background-color: seagreen;
     color: whitesmoke;
+    margin: 30px 20px 30px 20px;
+}
+
+date {
+    font-size: .75em;
+    color: grey;
+}
+
+.post {
+    margin: 10px 0 10px 15px;
 }
